@@ -1,2 +1,2 @@
-# Gener
-Tarea empezada el 11
+# Gener 4 etiquetas
+Tarea empezada el 11 de enero
